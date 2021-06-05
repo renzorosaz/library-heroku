@@ -26,6 +26,10 @@ from rest_framework import routers
 router = routers.DefaultRouter()
 router.register('books',viewsets.BookViewSet)
 
+ #path('catalog/books', views.new_book),
+    # /catalog.html
+    # /catalog.json 
+    
 
 urlpatterns = [
     path('admin/', admin.site.urls),
