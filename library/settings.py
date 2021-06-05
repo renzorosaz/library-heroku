@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-r$$e$!6p7+wo8a-^e5ry84#-+jk6j3ae)z+!ph*p-1z!1i7%b6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://library-rovi.herokuapp.com']
 
 
 # Application definition
