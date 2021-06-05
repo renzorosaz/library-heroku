@@ -1,3 +1,3 @@
 django
 djangorestframework
-django-boostrap4
+django-bootstrap4
